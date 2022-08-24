@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 .cover {
     height: 650px;
     padding-top: 200px;
-    background-color: #D9D9D9;    background-image: url(/img/main/IMG_8315.JPG);
+    background-color: #D9D9D9;    background-image: url(/vilni1/img/main/IMG_8315.JPG);
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.5);
 
@@ -60,10 +60,10 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 }
 
 .main__content1{
-    background-image: url(/img/image\ 1.png);
+    background-image: url(/vilni1/img/image\ 1.png);
 }
 .main__content2{
-    background-image: url(/img/main/IMG_0803.jpg);
+    background-image: url(/vilni1/img/main/IMG_0803.jpg);
 }
 .content-info {
     display: flex;
@@ -115,14 +115,14 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
   .slider .slick-arrow.slick-prev{
     z-index: 20;
     left: 0; 
-    background: url('/img/left.png') 0 0 / 100% no-repeat;
+    background: url('/vilni1/img/left.png') 0 0 / 100% no-repeat;
 }
 
 .slider .slick-arrow.slick-next{
     z-index: 20;
 
     right: 0;
-    background: url('/img/right.png') 0 0 / 100% no-repeat;
+    background: url('/vilni1/img/right.png') 0 0 / 100% no-repeat;
 }
 
 
@@ -144,7 +144,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 1040px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png);
+        background-image: url(/vilni1/img/image\ 1.png);
         background-size: cover;
     }
 }
@@ -154,7 +154,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 1000px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png);
+        background-image: url(/vilni1/img/image\ 1.png);
         background-size: cover;
     }
 }
@@ -164,7 +164,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 950px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png);
+        background-image: url(/vilni1/img/image\ 1.png);
         background-size: cover;
     }
 }
@@ -174,7 +174,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 900px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png);
+        background-image: url(/vilni1/img/image\ 1.png);
         background-size: cover;
     }
 }
@@ -184,7 +184,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 840px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png);
+        background-image: url(/vilni1/img/image\ 1.png);
         background-size: cover;
     }
     .content-text{
@@ -197,7 +197,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 770px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png);
+        background-image: url(/vilni1/img/image\ 1.png);
         background-size: cover;
     }
 }
@@ -207,7 +207,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 710px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png);
+        background-image: url(/vilni1/img/image\ 1.png);
         background-size: cover;
     }
 }
@@ -242,7 +242,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 655px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png);
+        background-image: url(/vilni1/img/image\ 1.png);
         background-size: cover;
     }
     
@@ -253,7 +253,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 575px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png);
+        background-image: url(/vilni1/img/image\ 1.png);
         background-size: cover;
     }
     
@@ -264,7 +264,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 510px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png);
+        background-image: url(/vilni1/img/image\ 1.png);
         background-size: cover;
     }
 }
@@ -275,7 +275,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 410px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png) ;
+        background-image: url(/vilni1/img/image\ 1.png) ;
         background-size: cover;
     }
     
@@ -287,7 +287,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         width: 340px;
         height: 500px;
         background-color: antiquewhite;
-        background-image: url(/img/image\ 1.png) ;
+        background-image: url(/vilni1/img/image\ 1.png) ;
         background-size: cover;
     }
     .cover-title {
