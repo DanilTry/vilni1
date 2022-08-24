@@ -34,13 +34,13 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 }
 
 .main__content1{
-    background-image: url(/img/image\ 1.png);
+    background-image: url(../img/image\ 1.png);
 }
 .main__content2{
-    background-image: url(/img/main/IMG_0803.jpg);
+    background-image: url(../img/main/IMG_0803.jpg);
 }
 .main__content3{
-    background-image: url(/img/main/IMG_0803.jpg);
+    background-image: url(../img/main/IMG_0803.jpg);
 }
 .content-info {
     display: flex;
@@ -92,14 +92,14 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
   .slider .slick-arrow.slick-prev{
     z-index: 20;
     left: 0; 
-    background: url('/img/left.png') 0 0 / 100% no-repeat;
+    background: url('../img/left.png') 0 0 / 100% no-repeat;
 }
 
 .slider .slick-arrow.slick-next{
     z-index: 20;
 
     right: 0;
-    background: url('/img/right.png') 0 0 / 100% no-repeat;
+    background: url('../img/right.png') 0 0 / 100% no-repeat;
 }
 
 
@@ -190,21 +190,21 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 .team-item-row2 {
 }
 .team-item1 {
-    background-image: url(/img/team/gleb.jpg);
+    background-image: url(../img/team/gleb.jpg);
     background-size: cover;
 }
 .team-item2 {
-    background-image: url(/img/team/danylo.jpg);
+    background-image: url(../img/team/danylo.jpg);
     background-size: cover;
 }
 .team-item3 {
-    background-image: url(/img/team/vasylisa2.jpeg);
+    background-image: url(../img/team/vasylisa2.jpeg);
     background-size: cover;
 }
-.team-item4 { background-image: url(/img/team/марина2.jpg);
+.team-item4 { background-image: url(../img/team/марина2.jpg);
     background-size: cover;
 }
-.team-item5{ background-image: url(/img/team/ivanna.jpg);
+.team-item5{ background-image: url(../img/team/ivanna.jpg);
     background-size: cover;
 }
 .team-item6{ background-image: url();
