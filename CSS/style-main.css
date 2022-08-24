@@ -143,7 +143,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 1040px;
         height: 500px;
-        
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png);
+        background-size: cover;
     }
 }
 @media(max-width:1024px){
@@ -151,7 +153,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 1000px;
         height: 500px;
-       
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png);
+        background-size: cover;
     }
 }
 @media(max-width:969px){
@@ -159,7 +163,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 950px;
         height: 500px;
-       
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png);
+        background-size: cover;
     }
 }
 @media(max-width:915px){
@@ -167,7 +173,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 900px;
         height: 500px;
-       
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png);
+        background-size: cover;
     }
 }
 @media(max-width:870px){
@@ -175,7 +183,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 840px;
         height: 500px;
-        
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png);
+        background-size: cover;
     }
     .content-text{
         max-width: 500px;
@@ -186,7 +196,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 770px;
         height: 500px;
-       
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png);
+        background-size: cover;
     }
 }
 @media(max-width:739px){
@@ -194,7 +206,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 710px;
         height: 500px;
-       
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png);
+        background-size: cover;
     }
 }
 @media(max-width:728px){
@@ -227,7 +241,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 655px;
         height: 500px;
-      
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png);
+        background-size: cover;
     }
     
 }
@@ -236,7 +252,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 575px;
         height: 500px;
-       
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png);
+        background-size: cover;
     }
     
 }
@@ -245,7 +263,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 510px;
         height: 500px;
-       
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png);
+        background-size: cover;
     }
 }
 
@@ -254,7 +274,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 410px;
         height: 500px;
-       
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png) ;
+        background-size: cover;
     }
     
 }
@@ -264,7 +286,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
         display: flex;
         width: 340px;
         height: 500px;
-        
+        background-color: antiquewhite;
+        background-image: url(../img/image\ 1.png) ;
+        background-size: cover;
     }
     .cover-title {
         font-size: 45px;
