@@ -1,0 +1,360 @@
+*{padding: 0;margin: 0;border: 0;}
+*,*:before,*:after{-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{height:100%;width:100%;font-size:100%;line-height:1;font-size:14px;-ms-text-size-adjust:100%;-moz-text-size-adjust:100%;-webkit-text-size-adjust:100%;}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner{padding:0;border:0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
+/*--------------------*/
+
+/************slides******************/
+
+
+.slide-show{
+    padding-top: 140px;
+    background: #F5F5F5;
+    padding-bottom: 30px;
+    width: 100%;
+
+}
+.main__content {
+    display: flex;
+    width: 1100px;
+    height: 500px;
+    background-color: antiquewhite;
+    background-size: cover;
+}
+
+.main__content1{
+    background-image: url(/img/image\ 1.png);
+}
+.main__content2{
+    background-image: url(/img/main/IMG_0803.jpg);
+}
+.main__content3{
+    background-image: url(/img/main/IMG_0803.jpg);
+}
+.content-info {
+    display: flex;
+    flex-direction: column;
+    padding-top: 300px;
+    padding-left: 30px;
+    gap: 30px;
+    width: 350px;
+}
+.info-title {
+    padding: 10px;
+    background: #ffc94268;
+    color: #fff;
+    font-weight: 500;
+    max-width: 247px;
+    max-height: 35px;
+}
+.info-subtitle {
+    padding: 10px;
+    background: #ffc94268;
+    color: #fff;
+    font-weight: 500;
+    max-height: 80px;
+    max-width: 366px;
+}
+
+
+.slider .slick-arrow{
+    position: absolute;
+    top: 50%; 
+    margin: -15px 0 0 0; 
+    z-index: 2;
+    font-size: 0; 
+    width: 30px; 
+    height: 30px; 
+    z-index: 20;
+
+  }
+  .slick-prev:before,
+  .slick-next:before {
+    display: none;
+  }
+  .slick-prev,
+  .slick-next {
+    width: 50px;
+    height: 50px;
+    z-index:5;
+  }
+  .slider .slick-arrow.slick-prev{
+    z-index: 20;
+    left: 0; 
+    background: url('/img/left.png') 0 0 / 100% no-repeat;
+}
+
+.slider .slick-arrow.slick-next{
+    z-index: 20;
+
+    right: 0;
+    background: url('/img/right.png') 0 0 / 100% no-repeat;
+}
+
+
+
+/*******team*************/
+
+.team {
+    height: 940px;
+}
+.team__container {
+    display: flex;
+    justify-content: center;
+}
+.team__content {
+    padding-top: 65px;
+}
+.columns {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.team-item{
+    height: 350px;
+    width: 300px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+.item__content{
+    padding-top: 250px;
+    padding-left: 0px;
+   
+}
+.popup-link {
+}
+.open-popup {
+}
+.team-item-row1 {
+}
+
+.item-title {
+    padding: 5px 0 5px 5px;
+    font-size: 20px;
+    color: black;
+    font-weight: 500;
+    background-color: #ffc942;
+    width: 150px;
+    align-items: center;
+    margin: 0 0 10px 0;
+    border: black solid 1px;
+    border-radius: 2px;
+}
+.item3-title {
+    width: 250px;
+}
+.item-subtitle {
+    color: black;
+    font-weight: 450;
+    width: 180px;
+    font-size: 12px;
+    padding: 5px 0 5px 5px;
+    background-color: #ffc942;
+    border: black solid 1px;
+    border-radius: 2px;
+
+}
+.item1-subtitle {
+}
+.team-items-column1 {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+
+}
+.team-items-column2 {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+
+}
+.team-items-column3 {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+
+}
+.team-item-row2 {
+}
+.team-item1 {
+    background-image: url(/img/team/gleb.jpg);
+    background-size: cover;
+}
+.team-item2 {
+    background-image: url(/img/team/danylo.jpg);
+    background-size: cover;
+}
+.team-item3 {
+    background-image: url(/img/team/vasylisa2.jpeg);
+    background-size: cover;
+}
+.team-item4 { background-image: url(/img/team/марина2.jpg);
+    background-size: cover;
+}
+.team-item5{ background-image: url(/img/team/ivanna.jpg);
+    background-size: cover;
+}
+.team-item6{ background-image: url();
+    background-size: cover;
+}
+
+.item5-subtitle {
+    width: 190px;
+}
+.item2-title {
+    width: 190px;
+}
+.item4-subtitle {
+    width: 180px;
+}
+.item4-title {
+    width: 180px;
+}
+.cla{
+    font-size: 49px;
+    width: 245px;
+    margin: auto;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-self: center;
+    padding: 0 0 0 15px;
+    line-height: 1.3;
+
+}
+.team-item6{
+    background-color: #ffc942;
+}
+.item__content2{
+    padding: 10px;
+    width: 280px;
+    font-weight: 600;
+
+}
+.team__title{
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    padding: 0 0 25px 0;
+}
+
+
+/******popup*****/
+
+
+.popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.85);
+    top: 0;
+    left: 0;
+    z-index: 15;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.5s ease 0s;
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 200;
+    
+    
+}
+
+.popup.open{
+    opacity: 1;
+    visibility: visible;
+}
+
+.popup.open .popup__content{
+    transform: perspective(600px) translate(0px 0%) rotate(0deg);
+    opacity: 1;
+}
+.popup__body {
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 10px;
+}
+.popup__content {
+    background: #FFC942;
+    position: relative;
+    border-radius: 10px;
+    height: 580px;
+    max-width: 1050px;
+}
+.decoration{
+    background-color: black;
+    height: 1px;
+    margin-bottom: 25px;
+}
+
+.popup__title {
+    font-size: 36px;
+}
+.popup-textblock{
+    padding: 25px 0 0 25px;
+}
+.popup__subtitle {
+    font-size: 16px;
+    padding: 10px 0 20px 0;
+    color: #000;
+}
+.popup__text {
+    font-size: 15px;
+    padding: 0 25px 0 25px;
+    color: #000;
+}
+.close-png{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    height: 25px;
+    width: 25px;
+}
+
+
+
+/****about-us**********/
+
+.about-us {
+    padding-top: 45px;
+    height: 550px;
+    background-color: #fff;
+
+}
+.about-us__container {
+}
+.about-us__content {
+    padding-top: 45px;
+    background-color: #fff;
+    width: 450px;
+    height: 430px;
+    border: #000 solid 1px;
+    border-radius: 10px;
+}
+.about-us__block {
+    padding: 15px;
+}
+.about-title {
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 25px;
+}
+.about-subtitle {
+}
