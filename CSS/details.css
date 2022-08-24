@@ -1,0 +1,115 @@
+/*Обнуление*/
+*{padding: 0;margin: 0;border: 0;}
+*,*:before,*:after{-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{height:100%;width:100%;font-size:100%;line-height:1;font-size:14px;-ms-text-size-adjust:100%;-moz-text-size-adjust:100%;-webkit-text-size-adjust:100%;}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner{padding:0;border:0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
+/*--------------------*/
+
+
+
+.details {
+    padding-top: 160px;
+    padding-bottom: 43px;    
+    background-color: #F5F5F5;
+}
+.details__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.details__content {
+    border: #000 solid 2px;
+    width: 1142px;
+    height: 582px;
+    border-radius: 10px;
+    padding: 40px;
+}
+.detail__cla{
+    padding:  0 0 30px 0;
+    font-size: 24px;
+    font-weight: 500;
+}
+.details__main {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.cardpay {
+    background-color: #ffc942;
+    padding: 15px 55px 15px 15px;
+    width: 235px;
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+    border: #000 solid 1.5px;
+    border-radius: 2px;
+
+}
+.mono {
+    background-color: #ffc942;
+    padding: 15px 55px 15px 15px;
+    width: 235px;
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+    border: #000 solid 1.5px;
+    border-radius: 2px;
+
+}
+.details__items {
+    padding: 45px 0 0 0;
+}
+.details__item {
+    width: 450px;
+    height: 85px;
+    border: #ffc942 solid 2px;
+    margin-bottom: 25px;
+    border-radius: 2px;
+}
+.item__crypto{
+    width: 450px;
+    height: 120px;
+    border: #ffc942 solid 2px;
+    margin-bottom: 25px;
+    border-radius: 2px;
+}
+.item-title {
+padding: 10px 0 0 10px;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+}
+.patreon{
+    color: #000;
+    text-decoration: underline;
+}
+
+.item-subtitle {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #000;
+    padding: 20px 0 0 10px ;
+}
+
+.crypto{
+    padding: 10px 0 0 10px;
+}
+.btc {
+}
+.eth {
+}
+.usdt {
+}
