@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 .cover {
     height: 650px;
     padding-top: 200px;
-    background-color: #D9D9D9;    background-image: url(../img/main/IMG_8315.JPG);
+    background-color: #D9D9D9;    background-image: url(/img/main/IMG_8315.JPG);
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.5);
 
@@ -60,10 +60,10 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 }
 
 .main__content1{
-    background-image: url(../img/image\ 1.png);
+    background-image: url(/img/image\ 1.png);
 }
 .main__content2{
-    background-image: url(../img/main/IMG_0803.jpg);
+    background-image: url(/img/main/IMG_0803.jpg);
 }
 .content-info {
     display: flex;
@@ -115,14 +115,14 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
   .slider .slick-arrow.slick-prev{
     z-index: 20;
     left: 0; 
-    background: url('../img/left.png') 0 0 / 100% no-repeat;
+    background: url('/img/left.png') 0 0 / 100% no-repeat;
 }
 
 .slider .slick-arrow.slick-next{
     z-index: 20;
 
     right: 0;
-    background: url('../img/right.png') 0 0 / 100% no-repeat;
+    background: url('/img/right.png') 0 0 / 100% no-repeat;
 }
 
 
@@ -355,7 +355,7 @@ line-height: 1.4;
 }
 ul li{
 padding-left: 20px;
-background-image: url(../img/main/play.png);
+background-image: url(/img/main/play.png);
 background-repeat: no-repeat;
 background-position: 0 0;
   background-size: 1rem 1rem;
