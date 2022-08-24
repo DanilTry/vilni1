@@ -377,7 +377,7 @@ line-height: 1.4;
 .value-item{
     padding-bottom: 10px;
 }
-ul li{
+ul li.value-item{
 padding-left: 20px;
 background-image: url(../img/main/play.png);
 background-repeat: no-repeat;
