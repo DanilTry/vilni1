@@ -27,17 +27,17 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 
 @media(max-width:806px){
     .cover{
-        background-image: url(/img/main/main-tab.jpg);
+        background-image: url(../img/main/main-tab.jpg);
     }
 }
 @media(max-width:606px){
     .cover{
-        background-image: url(/img/main/main-tab2.jpg);
+        background-image: url(../img/main/main-tab2.jpg);
     }
 }
 @media(max-width:506px){
     .cover{
-        background-image: url(/img/main/main-mobile.jpg);
+        background-image: url(../img/main/main-mobile.jpg);
     }
 }
 .cover__container {
