@@ -23,6 +23,23 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
     background-color: rgba(0, 0, 0, 0.5);
 
 }
+
+
+@media(max-width:806px){
+    .cover{
+        background-image: url(/img/main/main-tab.jpg);
+    }
+}
+@media(max-width:606px){
+    .cover{
+        background-image: url(/img/main/main-tab2.jpg);
+    }
+}
+@media(max-width:506px){
+    .cover{
+        background-image: url(/img/main/main-mobile.jpg);
+    }
+}
 .cover__container {
     
 }
